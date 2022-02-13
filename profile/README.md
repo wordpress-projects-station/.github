@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.banner.jpg">
+<img src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.banner.gif">
 
 ---
 
