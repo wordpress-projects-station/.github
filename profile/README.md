@@ -1,13 +1,18 @@
-## Hi there 👋
 
-This presentation is under process... Coming soon ;)
+<img align="left" src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.nowporg.warning.jpg"><br><br>
+<img src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.banner.jpg">
 
-<img width="3000" src="https://github.com/wordpress-projects-station/.github/blob/main/resources/bigbanner.png">
+---
 
-<!--
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Hello everybody
+This space was created as a binder for several dedicated repos from the expansion and improvement of wordpress. Everything you see is legacy, unofficial material built for business purposes
+
+---
+
+- <b>How to:</b> Browse the projects and discover every detail of them. It's all free ;)
+- <b>Licence:</b> All licenses are present within each repository. Obviously, we do not assume any direct or indirect responsibility for the material displayed.
+- <b>Contribute:</b> No plans are currently open or ready to contribute ... however you can always send a message to a contributor.
+
+---
+
+<img width="35" align="left" src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.creditlogo.bertz.gif" > <span>Credits: </span>  Alberto Marà aka <b><a href="https://github.com/bertz-tech">github @bertz-tech</a> / <a href="https://bertz.tech">https://bertz.tech</a></b>
